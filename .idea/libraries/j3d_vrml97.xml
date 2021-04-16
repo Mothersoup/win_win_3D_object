@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="j3d-vrml97">
+    <CLASSES>
+      <root url="file://D:/j3d-vrml97.jar" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://D:/j3d-vrml97.jar" recursive="false" />
+  </library>
+</component>
